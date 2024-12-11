@@ -19,7 +19,6 @@ function WinnerCheck() {
     }
     if (!grid.some((el) => el == null)) {
         const el = document.querySelector(".grid");
-        el.
            el.innerText = "Its a Draw!🤷🏻‍♀️";
     }
 }
