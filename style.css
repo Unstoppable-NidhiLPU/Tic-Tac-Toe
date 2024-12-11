@@ -1,0 +1,23 @@
+body{
+    background-color: cadetblue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.col{
+    height: 65px;
+    width: 65px;
+    border: 2px solid rgb(183, 164, 164);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor:pointer;
+    
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
